@@ -9,7 +9,7 @@ hgftitanium/hgftitanium is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-This is [@hgftitanium](https://github.com/hgftitanium) Hilton Fernandes at Titanium Asset, a Brazilian investment fund specialized in cryptocurrencies. I'm a 
+I am [@hgftitanium](https://github.com/hgftitanium) Hilton Fernandes at Titanium Asset, a Brazilian investment fund specialized in cryptocurrencies. I'm a 
 programmer developing code for several crypto-related tasks.
 
 I'm interested in the programming languages Python, C++, C, R, and Java, as well as in some statistical techniques
